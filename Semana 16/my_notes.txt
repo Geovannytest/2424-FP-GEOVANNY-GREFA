@@ -1,0 +1,3 @@
+Línea 1: Hoy aprendí a usar archivos en Pyton.
+Línea 2: Me gusta mucho la programacion.
+Línea 3: Estoy emocionado por aprender más.
